@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ameythepro
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me when im sleeping
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:Hard worker 
+- ⚡ Fun fact:left hand batsman even though right handed
 
 <!---
 Ameythepro/Ameythepro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
